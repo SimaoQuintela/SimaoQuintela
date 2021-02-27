@@ -13,3 +13,4 @@ My favorite artist is Lana Del Rey <3 and I really recommend you listen to her m
 I also like Artic Monkeys, Guns N' Roses, Rex Orange County, U2, etc. <br/><br/>
 
 Hope you enjoy my work :))
+https://github-readme-stats.vercel.app/api?username=SimaoQuintela&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
