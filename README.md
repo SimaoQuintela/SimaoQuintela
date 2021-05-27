@@ -10,6 +10,5 @@ My first contact with programming was right before I went to university and I lo
 I've learned so far! <br/> I'm a young boy who like to study, listen to music and play some video games.<br/><br/>
 Hope you enjoy my work :))<br/>
 
-[![Simão Quintela's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela)](https://github.com/SimaoQuintela/github-readme-stats)
-Message #geral
+
 
