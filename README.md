@@ -28,7 +28,6 @@ My name is Simão Quintela and currently I'm studying Computer Science at Univer
 - Jogo do Galo Feito em Consola(GUIsh) - Python - [Project](https://github.com/NelsonAlmeida-18/streams/blob/main/felix.py)
 --!>
 
-[![Simão Quintela's github stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela-18&show_icons=true&theme=dark)]
-
+[![Nelson Almeida's github stats](https://github-readme-stats.vercel.app/api?username=NelsonAlmeida-18&show_icons=true&theme=dark)]
 Message #geral
 
