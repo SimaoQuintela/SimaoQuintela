@@ -10,10 +10,8 @@ Programação Funcional - [Exercises and tests](https://github.com/SimaoQuintela
 ## 1<sup>st</sup> year - 2<sup>nd</sup> semester
 Programação Imperativa - [Exercises](https://github.com/SimaoQuintela/Programacao-Imperativa)
 ### Project
-#### Stack-oriented programming language
+#### Stack-oriented programming language interpreter
 Laboratórios de Algoritmia I - [Project evaluation: 17](https://github.com/SimaoQuintela/CCPL2G01) 
-
-
 
 #
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
