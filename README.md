@@ -8,6 +8,9 @@ My name is Simão Quintela and currently I'm studying Computer Science at Univer
 
 My first contact with programming was right before I went to university and I loved everything
 I've learned so far! <br/> I'm a young boy who like to study, listen to music and play some video games.<br/><br/>
+
+[![Simao Quintela's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela)]
+
 Hope you enjoy my work :))<br/>
 
 
