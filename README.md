@@ -4,10 +4,10 @@ My first contact with programming was right before I went to university and I lo
 I'm a young boy who like to study, play some video games and listen to music.<br>
 Hope you enjoy my work :))
 
-## 1<sup>st</sup>st year - 1<sup>st</sup> semester 
+## 1<sup>st</sup> year - 1<sup>st</sup> semester 
 Programação Funcional - [Exercises and tests](https://github.com/SimaoQuintela/Programacao-Funcional)
 
-## 1<sup>st</sup>year - 2<sup>nd</sup> semester
+## 1<sup>st</sup> year - 2<sup>nd</sup> semester
 Programação Imperativa - [Exercises](https://github.com/SimaoQuintela/Programacao-Imperativa)
 ### Project
 #### Stack-oriented programming language
