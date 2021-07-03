@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Simão Quintela and currently I'm studying Computer Science at Universidade do Minho 💻<br>
+My name is Simão Quintela and I'm a Computer Science student at Universidade do Minho 💻<br>
 My first contact with programming was right before I went to university and I loved everything I've learned so far!<br>
 I'm a young boy who like to study, play some video games and listen to music.<br>
 Hope you enjoy my work :))
