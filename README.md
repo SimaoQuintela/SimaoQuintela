@@ -8,7 +8,7 @@ Hope you enjoy my work :))
 Programação Funcional - [Exercises and tests](https://github.com/SimaoQuintela/Programacao-Funcional)
 
 ## 1<sup>st</sup> year - 2<sup>nd</sup> semester
-Programação Imperativa - [Exercises](https://github.com/SimaoQuintela/Programacao-Imperativa)
+Programação Imperativa - [Exercises and tests](https://github.com/SimaoQuintela/Programacao-Imperativa)
 ### Project
 #### Stack-oriented programming language interpreter
 Laboratórios de Algoritmia I - [Project evaluation: 17](https://github.com/SimaoQuintela/CCPL2G01) 
