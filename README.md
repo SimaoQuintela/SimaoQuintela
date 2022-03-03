@@ -13,6 +13,10 @@ Programação Imperativa - [Exercises and tests](https://github.com/SimaoQuintel
 #### Stack-oriented programming language interpreter
 Laboratórios de Algoritmia I - [Project](https://github.com/SimaoQuintela/CCPL2G01) 
 
+## 2<sup>nd</sup> year - 2<sup>nd</sup> semester 
+Programação Orientada aos Objetos - [Exercises](https://github.com/SimaoQuintela/POO)<br><br>
+Laboratórios de Algoritmia 2 - [Exercises](https://github.com/SimaoQuintela/LA2)
+
 #
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaoQuintela&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
