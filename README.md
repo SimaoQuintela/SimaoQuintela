@@ -19,5 +19,5 @@ Hope you enjoy my work :))
 #### Sistemas Operativos - [Exercises](https://github.com/SimaoQuintela/SO)
 
 #
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaoQuintela&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaoQuintela&layout=compact&theme=dracula)
