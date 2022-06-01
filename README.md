@@ -15,8 +15,9 @@ Hope you enjoy my work :))
 
 ## 2<sup>nd</sup> year - 2<sup>nd</sup> semester 
 #### Programação Orientada aos Objetos - [Exercises](https://github.com/SimaoQuintela/POO) - [Project](https://github.com/SimaoQuintela/Projeto-POO)
+#### Sistemas Operativos - [Exercises](https://github.com/SimaoQuintela/SO) - [Project](https://github.com/SimaoQuintela/SO-Projeto)
 #### Laboratórios de Algoritmia 2 - [Exercises](https://github.com/SimaoQuintela/LA2)
-#### Sistemas Operativos - [Exercises](https://github.com/SimaoQuintela/SO)
+
 
 #
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula)
