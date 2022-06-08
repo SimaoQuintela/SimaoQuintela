@@ -9,8 +9,6 @@ Hope you enjoy my work :))
 
 ## 1<sup>st</sup> year - 2<sup>nd</sup> semester
 #### Programação Imperativa - [Exercises and tests](https://github.com/SimaoQuintela/Programacao-Imperativa)
-### Project
-#### Stack-oriented programming language interpreter
 #### Laboratórios de Algoritmia I - [Project](https://github.com/SimaoQuintela/CCPL2G01) 
 
 ## 2<sup>nd</sup> year - 2<sup>nd</sup> semester 
