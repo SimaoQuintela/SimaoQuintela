@@ -21,6 +21,8 @@ I'm a young boy who likes to study, play video games and listen to music.<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+#### I also have knowledge about Web Design and frameworks like React, Tailwind, or NextJS but I don't consider it skills because I'm not 100% comfortable using them.
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaoQuintela&layout=compact&theme=dracula)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula)
 
