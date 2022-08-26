@@ -13,6 +13,8 @@ I'm a young boy who likes to study, play video games and listen to music.<br>
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+#### I also have knowledge about Web Design and frameworks like React, Tailwind, or NextJS but I don't consider it skills because I'm not 100% comfortable using them.
+
 ## Tools
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -21,7 +23,7 @@ I'm a young boy who likes to study, play video games and listen to music.<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### I also have knowledge about Web Design and frameworks like React, Tailwind, or NextJS but I don't consider it skills because I'm not 100% comfortable using them.
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaoQuintela&layout=compact&theme=dracula)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoQuintela&show_icons=true&theme=dracula)
