@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### My name is Simão Quintela, and I'm studying Computer Science at the University of Minho 💻<br>
-My first contact with programming was right before I went to university, and I loved everything I've learned so far!<br>
-I'm a young boy who likes to study, play video games and listen to music.<br>
+#### Hello, my name is Simão Quintela. I'm a Computer Science graduate from the University of Minho 💻<br>
+My first exposure to programming was just before I went to university, and I've loved everything I've learned so far! </br>
+I'm a young boy who likes to study, play video games and listen to music.
 #### You can check my [University](https://github.com/SimaoQuintela/University) repository to see all the things that I've done through these years at the university.
 
 ## Skills
