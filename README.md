@@ -1,8 +1,10 @@
 ### Hi there 👋
 #### Hello, my name is Simão Quintela. I'm a Computer Science graduate from the University of Minho, where I'm taking my Masters Degree in Mathematics and Computer Science 💻<br>
 My first exposure to programming was just before I went to university, and I've loved everything I've learned so far! </br>
-I'm a young boy who likes to study, play video games and listen to music.
-#### You can check my [University](https://github.com/SimaoQuintela/University) repository to see all the things that I've done through these years at the university.
+I'm a young boy who likes to study, play video games, and listen to music.
+#### You can check my [University](https://github.com/SimaoQuintela/University) repository to see all the things that I've done throughout these years at the university.
+
+Currently, I'm working as a Full-Stack developer at [DTx](https://www.dtx-colab.pt/) while pursuing my thesis on AI Agents and Layout Models. 
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
